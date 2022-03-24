@@ -1,0 +1,7 @@
+git init
+	for initializing git
+git status
+	for listing all untracked files
+git add -a
+	adding all untracked files to stagging area
+	
